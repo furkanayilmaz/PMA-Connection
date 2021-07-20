@@ -1,6 +1,6 @@
 # PMA Connection
 
-Phpmyadmin connection using java
+PHPMYADMIN connection using java
 
 ## Description
 
