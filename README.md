@@ -11,12 +11,12 @@ Using JAVA & MYSQL Connector Adapter we can (Read, Write) and do anything in php
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* MYSQL Connector (JDBC) --> https://www.mysql.com/products/connector/
+* XAMPP --> https://www.apachefriends.org/download.html
 
 ### Executing program
 
-* How to run the program
+* Fillout the sections tht 
 * Step-by-step bullets
 ```
 code blocks for commands
